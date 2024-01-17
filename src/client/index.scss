@@ -1,3 +1,27 @@
+html {
+    background: rgb(10, 25, 41);
+}
 body {
-  margin: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.MuiDataGrid-withBorderColor {
+    border-color: rgba(20, 50, 82, 0.8) !important;
+}
+
+.markdown {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+        Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.markdown img {
+    max-width: 100%;
 }

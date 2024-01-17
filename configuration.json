@@ -1,0 +1,19 @@
+{
+    "newProjScripts": [
+        {
+            "name": "Node.js Typescript",
+            "description": "A NodeJS terinl based project with typescript compiling",
+            "script": "echo \"Hello world\""
+        },
+        {
+            "name": "React Typescript",
+            "description": "A React web project with typescript compiling",
+            "script": "echo \"Hello world\""
+        },
+        {
+            "name": "HTML + CSS",
+            "description": "Basic HTML and CSS",
+            "script": "echo \"Hello world\""
+        }
+    ]
+}
